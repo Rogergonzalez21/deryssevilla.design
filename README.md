@@ -5,7 +5,7 @@ This is the repo for the website [deryssevilla.design](deryssevilla.design), bas
 
 ## Preview
 
-[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://deryssevilla.design)
+[![Freelancer Preview](https://raw.githubusercontent.com/Rogergonzalez21/deryssevilla.design/master/preview.png)](https://deryssevilla.design)
 
 **[View Live](https://deryssevilla.design/)**
 
