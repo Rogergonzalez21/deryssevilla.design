@@ -10888,9 +10888,13 @@ form .row:first-child .floating-label-form-group {
 }
 
 .about-image {
-  width: 100%;
+  width: 90%;
 }
 
 .margin-bottom {
   margin-bottom: 20px;
+}
+
+.strong {
+  font-weight: bold;
 }
